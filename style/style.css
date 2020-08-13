@@ -1,0 +1,20 @@
+.row .image img {
+    width: 1400px;
+    height: 400px;
+}
+
+
+.container .row .card6 img {
+    height:240px;
+}
+
+.container .row .card2 img {
+    height:240px;
+}
+ h3 .test {
+    margin-left:900px;
+}
+
+.container .carousel-slide{
+    height:500px;
+}
